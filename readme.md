@@ -18,6 +18,7 @@ feacture/1
 feature/2
 vengo de develop voy a develop
 vengo de master y vuelvo a master
+<<<<<<< HEAD
 >>>>>>> feacture/2
 =======
 feacture/1
@@ -26,3 +27,6 @@ volvi pero voy develop desapararece esta
 >>>>>>> feature/1
 >>>>>>> develop
 >>>>>>> pre-produ
+=======
+desde masster
+>>>>>>> feacture/2
