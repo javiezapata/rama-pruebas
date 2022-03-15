@@ -25,6 +25,10 @@ feacture/1
 volvi
 volvi pero voy develop desapararece esta
 >>>>>>> feature/1
+<<<<<<< HEAD
+kk
+ss
+=======
 >>>>>>> develop
 <<<<<<< HEAD
 
@@ -33,6 +37,23 @@ master
 >>>>>>> pre-produ
 =======
 desde masster
+<<<<<<< HEAD
+m
+=======
 >>>>>>> feacture/2
 >>>>>>> master
+<<<<<<< HEAD
 casi finis
+=======
+>>>>>>> pre-produ
+<<<<<<< HEAD
+siii
+=======
+>>>>>>> develop
+
+
+nooo
+>>>>>>> feacture/2
+
+volvemos de nuevo
+>>>>>>> develop
