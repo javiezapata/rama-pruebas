@@ -37,7 +37,17 @@ master
 >>>>>>> pre-produ
 =======
 desde masster
+<<<<<<< HEAD
+m
+=======
 >>>>>>> feacture/2
 >>>>>>> master
 >>>>>>> pre-produ
+<<<<<<< HEAD
 siii
+=======
+>>>>>>> develop
+
+
+nooo
+>>>>>>> feacture/2
