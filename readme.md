@@ -1,4 +1,12 @@
+<<<<<<< HEAD
+vengo pre-prod voy a feacture/2
+saltando al preproduct
+=======
 pre-producto creado
+<<<<<<< HEAD
+voy a product vengo de develop
+salto al develop
+=======
 develop
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -10,11 +18,25 @@ feacture/1
 feature/2
 vengo de develop voy a develop
 vengo de master y vuelvo a master
+<<<<<<< HEAD
 >>>>>>> feacture/2
 =======
 feacture/1
 volvi
 volvi pero voy develop desapararece esta
 >>>>>>> feature/1
+<<<<<<< HEAD
 kk
 ss
+=======
+>>>>>>> develop
+<<<<<<< HEAD
+
+master
+=======
+>>>>>>> pre-produ
+=======
+desde masster
+>>>>>>> feacture/2
+>>>>>>> master
+>>>>>>> pre-produ
